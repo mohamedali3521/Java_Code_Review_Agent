@@ -1,0 +1,13 @@
+package com.CodeReview.JavaCodeReviewAgent;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class JavaCodeReviewAgentApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(JavaCodeReviewAgentApplication.class, args);
+	}
+
+}
